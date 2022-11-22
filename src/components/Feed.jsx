@@ -35,7 +35,15 @@ const Feed = () => {
           CopyRight 2022 Borhen Benltaief
         </Typography>
       </Box>
-      <Box p={2} sx={{ overflowY: 'auto', flex: '2', height: '90vh' }}>
+      <Box
+        p={2}
+        sx={{
+          overflowY: 'auto',
+          flex: '2',
+
+          height: '90vh',
+        }}
+      >
         <Typography
           variant="h4"
           fontWeight="bold"
