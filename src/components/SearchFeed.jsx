@@ -19,7 +19,6 @@ const SearchFeed = () => {
       sx={{
         overflowY: 'auto',
         flex: '2',
-
         height: '90vh',
       }}
     >
